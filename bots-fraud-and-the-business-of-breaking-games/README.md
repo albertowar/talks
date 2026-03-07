@@ -39,6 +39,7 @@ For students looking to dive deeper into the world of game security, here are so
 - [[VDTRIESTE 2024] "Cracking the Code: Decoding Anti-Bot Systems!" by Fabien Vauchelles](https://www.youtube.com/watch?v=0S5SRT-WIUo): An exploration of how modern anti-bot systems use fingerprinting and behavioral analysis to challenge automated traffic.
 - [[x33fcon 2023] "How Much Is The Phish? Evolving Defences Against Evilginx Reverse Proxy Phishing" by Kuba Gretzky](https://www.youtube.com/watch?v=C-Fh4sIdY8c): A session on the "arms race" between reverse proxy phishing tools and defensive measures like JA4 fingerprinting and FIDO2.
 - [[Black Hat USA 2017] "Bot vs. Bot for Evading Machine Learning Malware Detection" by Hyrum Anderson](https://www.youtube.com/watch?v=KTfrbvxKQwo): A deep dive into using Reinforcement Learning to automatically discover mutations that bypass ML-based security products.
+- [[CypherCon 6.0] "Tales of Physical PenTests & How to Defend" by Ryan Zagrodnik & Chad Finkenbiner](https://www.youtube.com/watch?v=cNf8J-ot-74): A collection of real-world physical penetration testing stories and practical strategies for defending physical perimeters.
 - [Technical Concept: Control Flow Flattening](https://blog.jscrambler.com/jscrambler-101-control-flow-flattening/): An explanation of the structural transformation that hides a program's logic by flattening its conditional branches and loops into a single flat structure.
 
 #### Tools

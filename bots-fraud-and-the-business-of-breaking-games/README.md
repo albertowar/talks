@@ -41,6 +41,9 @@ For students looking to dive deeper into the world of game security, here are so
 - [[Black Hat USA 2017] "Bot vs. Bot for Evading Machine Learning Malware Detection" by Hyrum Anderson](https://www.youtube.com/watch?v=KTfrbvxKQwo): A deep dive into using Reinforcement Learning to automatically discover mutations that bypass ML-based security products.
 - [[CypherCon 6.0] "Tales of Physical PenTests & How to Defend" by Ryan Zagrodnik & Chad Finkenbiner](https://www.youtube.com/watch?v=cNf8J-ot-74): A collection of real-world physical penetration testing stories and practical strategies for defending physical perimeters.
 - [JavaScript Obfuscation: The Definitive Guide for 2026](https://blog.jscrambler.com/jscrambler-101-control-flow-flattening/): An explanation on how JavaScript obfuscation transforms readable client-side code into a functionally equivalent but hard-to-understand form to protect intellectual property and hinder reverse engineering
+- [DataDome Bot Security Report](https://datadome.co/resources/bot-security-report): Industry report covering bot traffic trends, attack patterns, and defensive strategies relevant to anti-bot programs.
+- [F5 Labs: 2025 Advanced Persistent Bots Report](https://www.f5.com/labs/articles/2025-advanced-persistent-bots-report): Analysis of persistent bot operator techniques, evasion trends, and mitigations for modern web defenses.
+- [Imperva 2025 Bad Bot Report](https://www.imperva.com/resources/resource-library/reports/2025-bad-bot-report/): Yearly bot threat intelligence report with trends, sector impact data, and actionable anti-bot defense insights.
 
 #### Tools
 - [UltimateAntiCheat](https://github.com/AlSch092/UltimateAntiCheat): A usermode anti-cheat system built in C++ designed to detect common attack vectors like debugging, memory editing, and code injection.

@@ -32,9 +32,14 @@ For students looking to dive deeper into the world of game security, here are so
 - [[GDC 2023] "Anti-Cheat: The Never-Ending War" by Narek Agasaryan](https://www.gdcvault.com/play/1025254/Anti-Cheat-The-Never-Ending): A high-level overview of the industry's approach to security and the evolution of anti-cheat.
 - [GDC 2018: Valve's "Robocalypse Now"](https://www.youtube.com/watch?v=ObhK8lUfIlc): John McDonald's famous talk on using Deep Learning (VACnet) to combat cheating in CS:GO.
 - [Easy Anti-Cheat (EAC) & Epic Online Services](https://dev.epicgames.com/docs/game-services/anti-cheat): Documentation and approach of the industry's most used third-party anti-cheat.
-- [USENIX Security '23: "A Study of Multi-Factor and Risk-Based Authentication Availability"](https://www.usenix.org/conference/usenixsecurity23/presentation/gavazzi): A deep dive into the real-world availability and implementation of RBA and MFA.
+- [USENIX Security '23: "The Impact of User-Agent Client Hints on Differential Privacy"](https://www.usenix.org/conference/usenixsecurity23/presentation/gavazzi) ([PDF](https://www.usenix.org/system/files/usenixsecurity23-gavazzi.pdf)): An analysis of how replacing User-Agent strings with Client Hints affects privacy and fingerprinting.
+- [ESORICS 2024: "The Impact of User-Agent Client Hints on Differential Privacy"](https://link.springer.com/chapter/10.1007/978-3-031-72325-4_16): A follow-up study on the privacy implications of UA-CH within the context of differential privacy.
+- [Cloudflare Radar: Bot Traffic Trends](https://radar.cloudflare.com/bots?dateRange=52w): A 52-week global view of bot activity and its evolution across the web.
+- [Recorded Future: Identity Trend Report (March 2024)](https://www.recordedfuture.com/blog/identity-trend-report-march-blog): An analysis of emerging identity-based threats, credential stuffing, and account takeover patterns.
+- [arXiv: "The All-Seeing Eye: A Survey of Computer Vision in the Age of LLMs"](https://arxiv.org/abs/2403.11798): A survey on how Large Language Models are being integrated into computer vision, relevant to the evolution of AI-driven automation.
 - [OWASP Top 10 (2025)](https://owasp.org/Top10/2025/): The industry-standard list of the most critical web application security risks, updated for 2025.
 - [OWASP Game Security Framework (GSF)](https://owasp.org/www-project-gamesec-framework/): An active project focused on threat modeling and defending modern gaming ecosystems.
+- [Account Takeover (ATO) Checklist](https://github.com/magoo/ato-checklist): A comprehensive checklist for security teams to defend against and respond to account takeover attacks.
 - [The Economy of Botting in MMORPGs](https://mural.maynoothuniversity.ie/id/eprint/2876/1/SDP_Cheating.pdf): A case study on the financial drivers and ecosystem behind automation in gaming.
 - [[VDTRIESTE 2024] "Cracking the Code: Decoding Anti-Bot Systems!" by Fabien Vauchelles](https://www.youtube.com/watch?v=0S5SRT-WIUo): An exploration of how modern anti-bot systems use fingerprinting and behavioral analysis to challenge automated traffic.
 - [[x33fcon 2023] "How Much Is The Phish? Evolving Defences Against Evilginx Reverse Proxy Phishing" by Kuba Gretzky](https://www.youtube.com/watch?v=C-Fh4sIdY8c): A session on the "arms race" between reverse proxy phishing tools and defensive measures like JA4 fingerprinting and FIDO2.
@@ -44,6 +49,7 @@ For students looking to dive deeper into the world of game security, here are so
 - [DataDome Bot Security Report](https://datadome.co/resources/bot-security-report): Industry report covering bot traffic trends, attack patterns, and defensive strategies relevant to anti-bot programs.
 - [F5 Labs: 2025 Advanced Persistent Bots Report](https://www.f5.com/labs/articles/2025-advanced-persistent-bots-report): Analysis of persistent bot operator techniques, evasion trends, and mitigations for modern web defenses.
 - [Imperva 2025 Bad Bot Report](https://www.imperva.com/resources/resource-library/reports/2025-bad-bot-report/): Yearly bot threat intelligence report with trends, sector impact data, and actionable anti-bot defense insights.
+- [Google Cloud: Disrupting the Largest Residential Proxy Network](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network): A detailed analysis of how a massive residential proxy network (Glupteba) was disrupted, highlighting its role in botnets and fraud.
 
 #### Tools
 - [UltimateAntiCheat](https://github.com/AlSch092/UltimateAntiCheat): A usermode anti-cheat system built in C++ designed to detect common attack vectors like debugging, memory editing, and code injection.
@@ -53,6 +59,7 @@ For students looking to dive deeper into the world of game security, here are so
 - [JS-Confuser](https://github.com/MichaelXF/js-confuser): A powerful open-source obfuscator known for its aggressive transformations and ability to make code highly resilient to static analysis.
 - [Google Closure Compiler](https://developers.google.com/closure/compiler): A tool for making JavaScript download and run faster, often used in "Advanced Mode" for obfuscation.
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs): FingerprintJS is an open-source, client-side, browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them.
+- [2FA Directory (Two Factor Auth)](https://2fa.directory): A community-driven list of websites and whether or not they support 2FA, essential for protecting accounts.
 
 ### Attack
 

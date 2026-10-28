@@ -20,6 +20,17 @@ Both students and professionals will leave with a clear vision of how business r
 
 > This talk was presented at **Hackers Week 2026** at the **University of Malaga**.
 
+## Slides
+
+The slides are a [Slidev](https://sli.dev) deck in [`slides.md`](./slides.md), with the original speaker notes (in Spanish). Riot Games artwork from the original deck has been left out.
+
+```bash
+npm install
+npm run dev      # present locally; open /presenter for speaker notes
+npm run build    # static site in dist/
+npm run export   # PDF export (uses playwright-chromium)
+```
+
 ## Follow-up Links
 
 For students looking to dive deeper into the world of game security, here are some curated resources:

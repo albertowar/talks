@@ -1,0 +1,7 @@
+# Local context files (not committed)
+context/
+
+# Slidev
+node_modules/
+dist/
+.slidev/

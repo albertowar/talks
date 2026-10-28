@@ -8,7 +8,7 @@ This repository contains material for conference and university talks.
 
 ## Repository Layout
 
-- `bots-fraud-and-the-business-of-breaking-games/`: Talk summary and follow-up references.
+- `bots-fraud-and-the-business-of-breaking-games/`: Talk summary, follow-up references and Slidev deck.
 
 ## How to Use This Repo
 
